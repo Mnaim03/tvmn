@@ -186,7 +186,7 @@ tvgID=mbcaction
 channelName=MBC Action
 getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-action/
-presentM3U8=http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1915.m3u8?token=TUcNB0MKRllAUFcBBggGAFYCVlEABAYEVVRVB1QEAgUBUlxQCFUHVgFGTkZHTEEBVV5vXlwXXwZdAwFKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxTUBJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cEWlxBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlZXRkk=
+presentM3U8=https://m3u.iranvids.com/mbc-action/output.m3u8
 category=MBC
 logo=https://static.wikia.nocookie.net/logopedia/images/3/38/MBCAction.png/revision/latest?cb=20191214131155
 
@@ -221,4 +221,12 @@ streamLink=http://live.multies.net/sports-ch/bein-sports-news/
 presentM3U8=none
 category=SPORTS
 logo=https://upload.wikimedia.org/wikipedia/commons/9/9b/BeIN-Sports-Logo.svg
+
+tvgID=dubaione
+channelName=Dubai One TV
+getM3U8=0
+streamLink=https://babaktv.com/dubai-one-tv/
+presentM3U8=https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+category=ARAB
+logo=https://static.wikia.nocookie.net/logopedia/images/2/2e/Dubai_one_tv_2021_logo.png/revision/latest?cb=20231208211744
 
