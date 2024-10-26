@@ -1,16 +1,16 @@
 Channel(manar, False, https://s1.ettehadlive.com/live/43/chunklist_w444025192.m3u8)
 Channel(al_ittihad, False, https://live.alittihad.tv:444/ittihad/index.m3u8)
-Channel(MTV, True, https://hms.pfs.gdn/stream/mtv.m3u8?token=78JhatFda2ir-60xDkdvWw:VZDRjPzx0TAqjeLXDTTt5GoaCu9rRV0japgsvJfx2HYH5OI8TATgsk4ztaDL_mGklRT4OJe1bLTH9J3DFNyXEOpD_tkBMPmS7W0AUVq37sxX4eIJyf3KWDvnNfiwfJNq7NMW_uLMTs0oGsNS2dZJBuhp8VnIyhVtAUssc6NEiY6Ifbv4l5rOnQ_HPQIgyrU0wBaSmIIj9lRCu8T58DhxLTz4vlngO-Zybbd-cveX0ng)
-Channel(al_jadeed, True, https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/index.m3u8?token=56f7060ea73c57778ad35cf7e0c6a7a2c2c607d5-6c73957088cd7b82408efc07cbc0ec58-1729961624-1729950824)
+Channel(MTV, True, https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=6-pILvfgNhK7jWu_tRJAJg:fOsbVQulVBbw8YU8gPJCQlfEN4HRglORN631kuXsyowqpakcqWDzdnjiXQy0YTqr3jpq-pAtZ5e4AvFtMf_uNaLmJWp6pkTd42e00fzYSgSF-fH9dUwgJ3S4oboleCK_Ay3ptm3SiyHDtZLuWLi0FQk7q01yHIDYT7y4_B1cgzR3ogotNxpCbCHh2G1Yn2DMqVoxVqmigfeutkyWpgAS8w)
+Channel(al_jadeed, True, https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/index.m3u8?token=2da6ea77e6a091163a6ab3b2a18bb21e916b54a2-cd521278973560d3583a1678dec1d144-1729962292-1729951492)
 Channel(jazeera_arabic, False, https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8)
 Channel(jazeera_live, False, https://live-hls-web-ajm.getaj.net/AJM/01.m3u8)
-Channel(lbci, True, https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=458cad63d1c3f8c829eb96498394ae1b5b1be39b-3c7c2df743ba26b74ecf8576455283c3-1729961624-1729950824)
-Channel(lbc2, True, https://el11.elahmad.com/tv707_www.elahmad.com_lb2/index.m3u8?token=1793dfb05cc17582c2ce35a3583d720d91da4952-5ee24976c01fa039511b0a7ef46c04c6-1729961625-1729950825)
+Channel(lbci, True, https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=781175ca0ffefaa311f8714050f2bf8b6bf70e1d-c7947ba8e976f27ee668633ba1c0aaf6-1729962292-1729951492)
+Channel(lbc2, True, https://el11.elahmad.com/tv707_www.elahmad.com_lb2/index.m3u8?token=319344ceac642ed6881aa8d3f96a774dae9695d4-5b8f71bc3f49b45def9f26b46d49f9b2-1729962292-1729951492)
 Channel(mayadeen, False, https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc)
-Channel(mustakbal, True, https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=011c83565ee361827a8212eb227a04d9bee110aa-0999fad77d6e8aeeef1586d02bcbf19c-1729961624-1729950824)
-Channel(otv, True, https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=383ef06bb05d819da6993f55fc93305c6d806904-628428c366777bd550436c8bc12f8868-1729961624-1729950824)
-Channel(al_muchahed, True, https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8)
-Channel(nbn, True, https://el11.elahmad.com/tv707_www.elahmad.com_nbn/index.m3u8?token)
+Channel(mustakbal, True, https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=4dc0bc1f828e951c82070a8ccaa0035aee92f0a7-337c699585a9306101cce469619dda53-1729962292-1729951492)
+Channel(otv, True, https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=f2c27f691c9ed8fca768ab8df49b1bfea8e8d0fb-023bb3bc80fb2a9e8edb8dfdaf09e3e4-1729962292-1729951492)
+Channel(al_muchahed, True, https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_1/chunklist.m3u8)
+Channel(nbn, True, https://el11.elahmad.com/tv707_www.elahmad.com_nbn/index.m3u8?token=1da843aafa6f6a6d834837d865ec842ecbb81110-475ab1e5bc7b71dde346b30441fea3a2-1729962321-1729951521)
 Channel(skynewsarabic, False, https://stream.skynewsarabia.com/hls/sna_720.m3u8)
 Channel(dai3a_1, False, http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/832.m3u8)
 Channel(dai3a_2, False, http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8)
@@ -27,5 +27,6 @@ Channel(mbcdrama, True, https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1
 Channel(mbcwanasah, False, https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8)
 Channel(bein, True, https://multies.xyz:8000/live/2211BeInSpoRTs/4uNTTfrmxt/4749.m3u8)
 Channel(dubaione, False, https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8)
- --> 29 Canali elavorati nella Struttura Channels
- --> Run su Darwin, alle 26/10/2024 15:59:14
+Channel(adsports2, False, https://pass.iranvids.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_05/index.m3u8)
+ --> 30 Canali elavorati nella Struttura Channels
+ --> Run su Darwin, alle 26/10/2024 16:10:31

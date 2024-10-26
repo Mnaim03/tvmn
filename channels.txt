@@ -230,3 +230,10 @@ presentM3U8=https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smi
 category=ARABIC
 logo=https://static.wikia.nocookie.net/logopedia/images/2/2e/Dubai_one_tv_2021_logo.png/revision/latest?cb=20231208211744
 
+tvgID=adsports2
+channelName=AD Sports 2
+getM3U8=0
+streamLink=https://babaktv.com/ad-sports-2/
+presentM3U8=https://pass.iranvids.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_05/index.m3u8
+category=SPORTS
+logo=https://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png
