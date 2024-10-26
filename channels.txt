@@ -227,6 +227,6 @@ channelName=Dubai One TV
 getM3U8=0
 streamLink=https://babaktv.com/dubai-one-tv/
 presentM3U8=https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-category=ARAB
+category=ARABIC
 logo=https://static.wikia.nocookie.net/logopedia/images/2/2e/Dubai_one_tv_2021_logo.png/revision/latest?cb=20231208211744
 

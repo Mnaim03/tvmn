@@ -84,6 +84,6 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-4 tvg-id="bein" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/BeIN-Sports-Logo.svg",beIN [Not 24/7]
 https://multies.xyz:8000/live/2211BeInSpoRTs/4uNTTfrmxt/4749.m3u8
 
-#EXTINF:-4 tvg-id="dubaione" group-title="ARAB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Dubai_one_tv_2021_logo.png/revision/latest?cb=20231208211744",Dubai One TV
+#EXTINF:-4 tvg-id="dubaione" group-title="ARABIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Dubai_one_tv_2021_logo.png/revision/latest?cb=20231208211744",Dubai One TV
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
