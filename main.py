@@ -299,7 +299,7 @@ def getMonoM3U8(channels, monofile):
 
         # Per ogni canale, scriviamo il formato richiesto
         for channel in channels:
-            file.write(f'#EXTINF:-2 tvg-id="{channel.tvgID}" group-title="{channel.category}" tvg-logo="{channel.logo}",{channel.channelName}\n')
+            file.write(f'#EXTINF:-4 tvg-id="{channel.tvgID}" group-title="{channel.category}" tvg-logo="{channel.logo}",{channel.channelName}\n')
             file.write(f'{channel.returnedM3U8}\n\n')  # Scriviamo il link restituito (o quello predefinito)
 
 

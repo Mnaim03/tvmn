@@ -57,7 +57,7 @@ logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.pn
 tvgID=lbc2
 channelName=LBC2
 getM3U8=1
-streamLink=http://live.multies.net/sham-ch/lb-ch/lb2-international/
+streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=lb2
 presentM3U8=none
 category=ARABIC
 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png
@@ -140,15 +140,15 @@ getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc1/
 presentM3U8=https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 category=MBC
-logo=https://upload.wikimedia.org/wikipedia/commons/c/c0/MBC_1_Logo.svg
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc1.png
 
 tvgID=mbc2
 channelName=MBC 2
 getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc2/
-presentM3U8=http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1918.m3u8?token=TUcNB0MKRllABQYGAFsAB1UFUQFaAVUHXQMFVVtUAAEGVQZfVFBQBVpGTkZHTEEBVV5vXlwXXwZdAwxKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxdVRJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cGU1VBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlBaRkk=
+presentM3U8=http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1918.m3u8?token=TUcNB0MKRllAV1cAAVsEVAMLB1ZeAVwAVQBRUVBWUgUDAFNSA1YGBgZGTkZHTEEBVV5vXlwXXwZdAwxKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxdVRJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cEV1FBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlBaRkk=
 category=MBC
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/35/MBC_2_Logo.svg/1200px-MBC_2_Logo.svg.png
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc2.png
 
 tvgID=mbc3
 channelName=MBC 3
@@ -156,7 +156,7 @@ getM3U8=1
 streamLink=http://live.multies.net/livetv/kids-ch/mbc3/
 presentM3U8=none
 category=MBC
-logo=https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc3.png
 
 tvgID=mbc4
 channelName=MBC 4
@@ -164,7 +164,7 @@ getM3U8=1
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc4/
 presentM3U8=none
 category=MBC
-logo=https://static.wikia.nocookie.net/wikihasania/images/d/dd/MBC4_Logo.png/revision/latest?cb=20240611132252
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc4.png
 
 tvgID=mbc5
 channelName=MBC 5
@@ -172,7 +172,7 @@ getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc5/
 presentM3U8=https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 category=MBC
-logo=https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc5.png
 
 tvgID=mbcmax
 channelName=MBC MAX
@@ -186,7 +186,7 @@ tvgID=mbcaction
 channelName=MBC Action
 getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-action/
-presentM3U8=http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1915.m3u8?token=TUcNB0MKRllAVlpUAl4HXQ0GAwMIDQNWVAtRX1RUUwdSXFMFCVFRWgNGTkZHTEEBVV5vXlwXXwZdAwFKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxTUBJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cEVldBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlZXRkk=
+presentM3U8=http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1915.m3u8?token=TUcNB0MKRllAUFcBBggGAFYCVlEABAYEVVRVB1QEAgUBUlxQCFUHVgFGTkZHTEEBVV5vXlwXXwZdAwFKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxTUBJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cEWlxBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlZXRkk=
 category=MBC
 logo=https://static.wikia.nocookie.net/logopedia/images/3/38/MBCAction.png/revision/latest?cb=20191214131155
 

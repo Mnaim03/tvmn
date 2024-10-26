@@ -1,86 +1,86 @@
 #EXTM3U
 
-#EXTINF:-2 tvg-id="manar" group-title="ARABIC" tvg-logo="https://seeklogo.com/images/A/Al_Manar-logo-617BD63196-seeklogo.com.png",Manar
+#EXTINF:-4 tvg-id="manar" group-title="ARABIC" tvg-logo="https://seeklogo.com/images/A/Al_Manar-logo-617BD63196-seeklogo.com.png",Manar
 https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-2 tvg-id="al_ittihad" group-title="ARABIC" tvg-logo="https://png.pngtree.com/png-vector/20220915/ourmid/pngtree-tv-logo-design-old-abstract-flat-vector-png-image_39237088.png",Al Ittihad
+#EXTINF:-4 tvg-id="al_ittihad" group-title="ARABIC" tvg-logo="https://png.pngtree.com/png-vector/20220915/ourmid/pngtree-tv-logo-design-old-abstract-flat-vector-png-image_39237088.png",Al Ittihad
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
-#EXTINF:-2 tvg-id="MTV" group-title="ARABIC" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
-https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token
+#EXTINF:-4 tvg-id="MTV" group-title="ARABIC" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
+https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=NSPXScikjy__IE-yc8A3Ew:PuEUCJnRFG7bR65q_eaNIpIgN021kW4T4o_jp_Dt7ilEz-1YbrYDbwJV8q_WFbIV5G66Aafs0d7Ewi9bOjkJwbJYe_sa1g3QtxC8H9JO1P7RbBzLo6refRTLVhrbPTi9gS6C361P-TBkXS99Ance4Ug9OvaRwEECWmOVFPo_IORPBfEu60VZnaNQa3SR_WGR56_Ouav276DxnlLFLm9fKw
 
-#EXTINF:-2 tvg-id="al_jadeed" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/index.m3u8?token=1670f018fb542136aa3a1d90ff87bae4b4d4c2c7-f45b7b5ebc411c5016af323ec75fab8d-1729952071-1729941271
+#EXTINF:-4 tvg-id="al_jadeed" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
+https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/index.m3u8?token=09f5406c571d05aff38596cf5fc1072a1cfe9842-722ad3bd3c6a7abd070dfe56f6b81c88-1729953504-1729942704
 
-#EXTINF:-2 tvg-id="jazeera_arabic" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
+#EXTINF:-4 tvg-id="jazeera_arabic" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 
-#EXTINF:-2 tvg-id="jazeera_live" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Live
+#EXTINF:-4 tvg-id="jazeera_live" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Live
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-#EXTINF:-2 tvg-id="lbci" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png",LBCi
-https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=dc90a8c2b7c4cb5d9c4001edbe98695d3b90b908-03243cc510339f72a25ab61dc86a3234-1729952071-1729941271
+#EXTINF:-4 tvg-id="lbci" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png",LBCi
+https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=7bfcc38c35d6f6b4188670e9595998ca06236498-2d898d1bc89d554720612fadf39b3572-1729953504-1729942704
 
-#EXTINF:-2 tvg-id="lbc2" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png",LBC2
-https://el11.elahmad.com/tv707_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token
+#EXTINF:-4 tvg-id="lbc2" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png",LBC2
+https://el11.elahmad.com/tv707_www.elahmad.com_lb2/index.m3u8?token=fb5eaa28e16997c2d98b702d742f1317ad69516c-1aa8fe341ada71578603e6027bbb2f44-1729953504-1729942704
 
-#EXTINF:-2 tvg-id="mayadeen" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Al_Mayadeen_logo.svg/1200px-Al_Mayadeen_logo.svg.png",Al Mayadeen
+#EXTINF:-4 tvg-id="mayadeen" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Al_Mayadeen_logo.svg/1200px-Al_Mayadeen_logo.svg.png",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 
-#EXTINF:-2 tvg-id="mustakbal" group-title="ARABIC" tvg-logo="https://lesfolies.design/wp-content/uploads/2018/06/LF-Portfolio-Future-Logo-1.jpg",Mustakbal
-https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=a1c162124509b5dbb8e986e0f4d42012d4a78622-2acf833eda12932ab6170ef2bd9fd201-1729952071-1729941271
+#EXTINF:-4 tvg-id="mustakbal" group-title="ARABIC" tvg-logo="https://lesfolies.design/wp-content/uploads/2018/06/LF-Portfolio-Future-Logo-1.jpg",Mustakbal
+https://el11.elahmad.com/tv707_www.elahmad.com_future/tracks-v1a1/mono.m3u8?token=32f8f66517fec10f4ab537afafe0b4dd1ee532d3-72459a3472360c99969d371f2bf5d8f5-1729953505-1729942705
 
-#EXTINF:-2 tvg-id="otv" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
-https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=b700a917aaf2918d6a7d5619309ba9b2b3a5b288-94cd17c89c3dd291c7210af9e3d22be8-1729952071-1729941271
+#EXTINF:-4 tvg-id="otv" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
+https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=3df7034f504a9b2a411c5498d4f5f6d4e00bf040-f0c6bbcc057203465ed7a294f5a54aba-1729953504-1729942704
 
-#EXTINF:-2 tvg-id="al_muchahed" group-title="ARABIC" tvg-logo="https://png.pngtree.com/png-vector/20220915/ourmid/pngtree-tv-logo-design-old-abstract-flat-vector-png-image_39237088.png",Al Muchahed
+#EXTINF:-4 tvg-id="al_muchahed" group-title="ARABIC" tvg-logo="https://png.pngtree.com/png-vector/20220915/ourmid/pngtree-tv-logo-design-old-abstract-flat-vector-png-image_39237088.png",Al Muchahed
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 
-#EXTINF:-2 tvg-id="nbn" group-title="ARABIC" tvg-logo="https://nbn.com.lb/wp-content/uploads/2024/06/logo-nbn-copy.png",NBN
-https://el11.elahmad.com/tv707_www.elahmad.com_nbn/index.m3u8?token=03d8605f39d3c93fbd47de071f084a2e6f66514b-6cc10df8897e87c5da45f820ad7d4d90-1729952084-1729941284
+#EXTINF:-4 tvg-id="nbn" group-title="ARABIC" tvg-logo="https://nbn.com.lb/wp-content/uploads/2024/06/logo-nbn-copy.png",NBN
+https://el11.elahmad.com/tv707_www.elahmad.com_nbn/index.m3u8?token=6d00a3c19c87dd7bb4c6e35c3bd0397b8b6486cd-47a98ce854657def9acc52d0e897b8ea-1729953516-1729942716
 
-#EXTINF:-2 tvg-id="skynewsarabic" group-title="ARABIC" tvg-logo="https://e7.pngegg.com/pngimages/452/128/png-clipart-abu-dhabi-sky-news-arabia-television-others-text-logo-thumbnail.png",SKY News Arabic
+#EXTINF:-4 tvg-id="skynewsarabic" group-title="ARABIC" tvg-logo="https://e7.pngegg.com/pngimages/452/128/png-clipart-abu-dhabi-sky-news-arabia-television-others-text-logo-thumbnail.png",SKY News Arabic
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
-#EXTINF:-2 tvg-id="dai3a_1" group-title="SPECIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFYDuyLM4xW1X_wFpI4uZmmaOxnXAcPHhyA&s",Dai3a Dai3a 1
+#EXTINF:-4 tvg-id="dai3a_1" group-title="SPECIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFYDuyLM4xW1X_wFpI4uZmmaOxnXAcPHhyA&s",Dai3a Dai3a 1
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/832.m3u8
 
-#EXTINF:-2 tvg-id="dai3a_2" group-title="SPECIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFYDuyLM4xW1X_wFpI4uZmmaOxnXAcPHhyA&s",Dai3a Dai3a 2
+#EXTINF:-4 tvg-id="dai3a_2" group-title="SPECIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFYDuyLM4xW1X_wFpI4uZmmaOxnXAcPHhyA&s",Dai3a Dai3a 2
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
 
-#EXTINF:-2 tvg-id="adel_imam" group-title="SPECIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Adel_Imam_by_Elijah_Zarwan.jpg/640px-Adel_Imam_by_Elijah_Zarwan.jpg",Adel Imam TV
+#EXTINF:-4 tvg-id="adel_imam" group-title="SPECIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Adel_Imam_by_Elijah_Zarwan.jpg/640px-Adel_Imam_by_Elijah_Zarwan.jpg",Adel Imam TV
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
 
-#EXTINF:-2 tvg-id="mbc1" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MBC_1_Logo.svg",MBC 1
+#EXTINF:-4 tvg-id="mbc1" group-title="MBC" tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc1.png",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
-#EXTINF:-2 tvg-id="mbc2" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/MBC_2_Logo.svg/1200px-MBC_2_Logo.svg.png",MBC 2
-http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1918.m3u8?token=TUcNB0MKRllABQYGAFsAB1UFUQFaAVUHXQMFVVtUAAEGVQZfVFBQBVpGTkZHTEEBVV5vXlwXXwZdAwxKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxdVRJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cGU1VBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlBaRkk=
+#EXTINF:-4 tvg-id="mbc2" group-title="MBC" tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc2.png",MBC 2
+http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1918.m3u8?token=TUcNB0MKRllAV1cAAVsEVAMLB1ZeAVwAVQBRUVBWUgUDAFNSA1YGBgZGTkZHTEEBVV5vXlwXXwZdAwxKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxdVRJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cEV1FBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlBaRkk=
 
-#EXTINF:-2 tvg-id="mbc3" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png",MBC 3
+#EXTINF:-4 tvg-id="mbc3" group-title="MBC" tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc3.png",MBC 3
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
-#EXTINF:-2 tvg-id="mbc4" group-title="MBC" tvg-logo="https://static.wikia.nocookie.net/wikihasania/images/d/dd/MBC4_Logo.png/revision/latest?cb=20240611132252",MBC 4
+#EXTINF:-4 tvg-id="mbc4" group-title="MBC" tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc4.png",MBC 4
 https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
-#EXTINF:-2 tvg-id="mbc5" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
+#EXTINF:-4 tvg-id="mbc5" group-title="MBC" tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc5.png",MBC 5
 https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
-#EXTINF:-2 tvg-id="mbcmax" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/800px-MBC_Max_Logo.svg.png",MBC MAX
+#EXTINF:-4 tvg-id="mbcmax" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/800px-MBC_Max_Logo.svg.png",MBC MAX
 http://136.243.88.20:8080/live/suaFaRecord/7PASADerJXre/1911.m3u8?token=TUcNB0MKRllAUAdcVwxRBw0AA1MBDQBUXAYDVFtQUAsFUwNTCFRUWgBGTkZHTEEBVV5vXlwXXwZdAwVKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAlBcUxJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cFUlZBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVXVlJTRkk=
 
-#EXTINF:-2 tvg-id="mbcaction" group-title="MBC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/MBCAction.png/revision/latest?cb=20191214131155",MBC Action
-http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1915.m3u8?token=TUcNB0MKRllAVlpUAl4HXQ0GAwMIDQNWVAtRX1RUUwdSXFMFCVFRWgNGTkZHTEEBVV5vXlwXXwZdAwFKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxTUBJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cEVldBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlZXRkk=
+#EXTINF:-4 tvg-id="mbcaction" group-title="MBC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/MBCAction.png/revision/latest?cb=20191214131155",MBC Action
+http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1915.m3u8?token=TUcNB0MKRllAUFcBBggGAFYCVlEABAYEVVRVB1QEAgUBUlxQCFUHVgFGTkZHTEEBVV5vXlwXXwZdAwFKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxTUBJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cEWlxBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlZXRkk=
 
-#EXTINF:-2 tvg-id="mbcvariety" group-title="MBC" tvg-logo="https://i.imgur.com/SfA0YaR.png",MBC Variety +
+#EXTINF:-4 tvg-id="mbcvariety" group-title="MBC" tvg-logo="https://i.imgur.com/SfA0YaR.png",MBC Variety +
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:-2 tvg-id="mbcdrama" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png",MBC Drama +
+#EXTINF:-4 tvg-id="mbcdrama" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png",MBC Drama +
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:-2 tvg-id="mbcwanasah" group-title="MBC" tvg-logo="https://i.imgur.com/nLtiXNf.png",MBC Wanasah
+#EXTINF:-4 tvg-id="mbcwanasah" group-title="MBC" tvg-logo="https://i.imgur.com/nLtiXNf.png",MBC Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
 
-#EXTINF:-2 tvg-id="bein" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/BeIN-Sports-Logo.svg",beIN [Not 24/7]
+#EXTINF:-4 tvg-id="bein" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/BeIN-Sports-Logo.svg",beIN [Not 24/7]
 https://multies.xyz:8000/live/2211BeInSpoRTs/4uNTTfrmxt/4749.m3u8
 
