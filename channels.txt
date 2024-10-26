@@ -230,6 +230,14 @@ presentM3U8=https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smi
 category=ARABIC
 logo=https://static.wikia.nocookie.net/logopedia/images/2/2e/Dubai_one_tv_2021_logo.png/revision/latest?cb=20231208211744
 
+tvgID=natgeo
+channelName=National Geographic Abu Dhabi
+getM3U8=0
+streamLink=https://babaktv.com/national-geographic-arabic/
+presentM3U8=https://m3u.iranvids.com/ng-arabic/output.m3u8
+category=ARABIC
+logo=https://media.admedia.ae/store/archive/image/2023/10/3/d26d0ff5-050e-45b5-8eea-0f04625869ed.png?width=600
+
 tvgID=adsports2
 channelName=AD Sports 2
 getM3U8=0
