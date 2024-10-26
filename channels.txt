@@ -1,0 +1,224 @@
+tvgID=manar
+channelName=Manar
+getM3U8=0
+streamLink=https://www.almanar.com.lb/live/
+presentM3U8=https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
+category=ARABIC
+logo=https://seeklogo.com/images/A/Al_Manar-logo-617BD63196-seeklogo.com.png
+
+tvgID=al_ittihad
+channelName=Al Ittihad
+getM3U8=0
+streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=alittihad
+presentM3U8=https://live.alittihad.tv:444/ittihad/index.m3u8
+category=ARABIC
+logo=https://png.pngtree.com/png-vector/20220915/ourmid/pngtree-tv-logo-design-old-abstract-flat-vector-png-image_39237088.png
+
+tvgID=MTV
+channelName=MTV
+getM3U8=1
+streamLink=https://www.elahmad.com/tv/mtvlebanon.htm
+presentM3U8=none
+category=ARABIC
+logo=https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png
+
+tvgID=al_jadeed
+channelName=Al Jadeed
+getM3U8=1
+streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljadeed1
+presentM3U8=none
+category=ARABIC
+logo=https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG
+
+tvgID=jazeera_arabic
+channelName=Jazeera Arabic
+getM3U8=0
+streamLink=https://www.aljazeera.net/live
+presentM3U8=https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
+category=ARABIC
+logo=https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png
+
+tvgID=jazeera_live
+channelName=Jazeera Live
+getM3U8=0
+streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljamuba_ar1
+presentM3U8=https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+category=ARABIC
+logo=https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png
+
+tvgID=lbci
+channelName=LBCi
+getM3U8=1
+streamLink=http://www.elahmad.com/tv/lbc.php
+presentM3U8=none
+category=ARABIC
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png
+
+tvgID=lbc2
+channelName=LBC2
+getM3U8=1
+streamLink=http://live.multies.net/sham-ch/lb-ch/lb2-international/
+presentM3U8=none
+category=ARABIC
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png
+
+tvgID=mayadeen
+channelName=Al Mayadeen
+getM3U8=0
+streamLink=http://www.elahmad.com/tv/arabic-tv-online.php?id=almayadeen
+presentM3U8=https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
+category=ARABIC
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Al_Mayadeen_logo.svg/1200px-Al_Mayadeen_logo.svg.png
+
+tvgID=mustakbal
+channelName=Mustakbal
+getM3U8=1
+streamLink=https://www.elahmad.com/tv/watchtv.php?id=future
+presentM3U8=none
+category=ARABIC
+logo=https://lesfolies.design/wp-content/uploads/2018/06/LF-Portfolio-Future-Logo-1.jpg
+
+tvgID=otv
+channelName=OTV
+getM3U8=1
+streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1
+presentM3U8=none
+category=ARABIC
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png
+
+tvgID=al_muchahed
+channelName=Al Muchahed
+getM3U8=1
+streamLink=https://www.elahmad.com/tv/watchtv.php?id=almashhad
+presentM3U8=none
+category=ARABIC
+logo=https://png.pngtree.com/png-vector/20220915/ourmid/pngtree-tv-logo-design-old-abstract-flat-vector-png-image_39237088.png
+
+tvgID=nbn
+channelName=NBN
+getM3U8=1
+streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=nbn
+presentM3U8=none
+category=ARABIC
+logo=https://nbn.com.lb/wp-content/uploads/2024/06/logo-nbn-copy.png
+
+tvgID=skynewsarabic
+channelName=SKY News Arabic
+getM3U8=0
+streamLink=https://www.elahmad.com/tv/arabic-tv-online.php?id=skynews
+presentM3U8=https://stream.skynewsarabia.com/hls/sna_720.m3u8
+category=ARABIC
+logo=https://e7.pngegg.com/pngimages/452/128/png-clipart-abu-dhabi-sky-news-arabia-television-others-text-logo-thumbnail.png
+
+tvgID=dai3a_1
+channelName=Dai3a Dai3a 1
+getM3U8=0
+streamLink=http://live.multies.net/livetv/deiaa-dayea1/
+presentM3U8=http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/832.m3u8
+category=SPECIAL
+logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFYDuyLM4xW1X_wFpI4uZmmaOxnXAcPHhyA&s
+
+tvgID=dai3a_2
+channelName=Dai3a Dai3a 2
+getM3U8=0
+streamLink=http://live.multies.net/livetv/deiaa-dayea2/
+presentM3U8=http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
+category=SPECIAL
+logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFYDuyLM4xW1X_wFpI4uZmmaOxnXAcPHhyA&s
+
+tvgID=adel_imam
+channelName=Adel Imam TV
+getM3U8=0
+streamLink=http://live.multies.net/ent-ch/movies-ch/alzaeem-tv/
+presentM3U8=http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
+category=SPECIAL
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Adel_Imam_by_Elijah_Zarwan.jpg/640px-Adel_Imam_by_Elijah_Zarwan.jpg
+
+tvgID=mbc1
+channelName=MBC 1
+getM3U8=0
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc1/
+presentM3U8=https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+category=MBC
+logo=https://upload.wikimedia.org/wikipedia/commons/c/c0/MBC_1_Logo.svg
+
+tvgID=mbc2
+channelName=MBC 2
+getM3U8=0
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc2/
+presentM3U8=http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1918.m3u8?token=TUcNB0MKRllAVwZTUF5QUlBQCVMKUwFSAQZVAlAHUwpUXFcFAAAHVgBGTkZHTEEBVV5vXlwXXwZdAwxKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMABlZdVBJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cFWlVBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFNXVFxAGQ==
+category=MBC
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/35/MBC_2_Logo.svg/1200px-MBC_2_Logo.svg.png
+
+tvgID=mbc3
+channelName=MBC 3
+getM3U8=1
+streamLink=http://live.multies.net/livetv/kids-ch/mbc3/
+presentM3U8=none
+category=MBC
+logo=https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png
+
+tvgID=mbc4
+channelName=MBC 4
+getM3U8=1
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc4/
+presentM3U8=none
+category=MBC
+logo=https://static.wikia.nocookie.net/wikihasania/images/d/dd/MBC4_Logo.png/revision/latest?cb=20240611132252
+
+tvgID=mbc5
+channelName=MBC 5
+getM3U8=0
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc5/
+presentM3U8=https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+category=MBC
+logo=https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png
+
+tvgID=mbcmax
+channelName=MBC MAX
+getM3U8=0
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-max/
+presentM3U8=http://136.243.38.238:8080/live/suaFaRecord/7PASADerJXre/1911.m3u8?token=TUcNB0MKRllAUgBWDAlXVAZXUgcNDQFSVlQMVAJXA1YBVAEEUgNWWgNGTkZHTEEBVV5vXlwXXwZdAwVKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAlBWVxJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cFUVxBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFZSWlVAGQ==
+category=MBC
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/800px-MBC_Max_Logo.svg.png
+
+tvgID=mbcaction
+channelName=MBC Action
+getM3U8=0
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-action/
+presentM3U8=http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1915.m3u8?token=TUcNB0MKRllAVgcBVg8CUVELUQMIUFxTXVcMXgEEUAJTXQNQCQMCBQRGTkZHTEEBVV5vXlwXXwZdAwFKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMABlRQVBJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cFVlRBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFNXVlZAGQ==
+category=MBC
+logo=https://static.wikia.nocookie.net/logopedia/images/3/38/MBCAction.png/revision/latest?cb=20191214131155
+
+tvgID=mbcvariety
+channelName=MBC Variety +
+getM3U8=0
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-variety/
+presentM3U8=https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+category=MBC
+logo=https://i.imgur.com/SfA0YaR.png
+
+tvgID=mbcdrama
+channelName=MBC Drama +
+getM3U8=1
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-drama-plus/
+presentM3U8=https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+category=MBC
+logo=https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png
+
+tvgID=mbcwanasah
+channelName=MBC Wanasah
+getM3U8=0
+streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-wanasah/
+presentM3U8=https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
+category=MBC
+logo=https://i.imgur.com/nLtiXNf.png
+
+tvgID=bein
+channelName=beIN [Not 24/7]
+getM3U8=1
+streamLink=http://live.multies.net/sports-ch/bein-sports-news/
+presentM3U8=none
+category=SPORTS
+logo=https://upload.wikimedia.org/wikipedia/commons/9/9b/BeIN-Sports-Logo.svg
+
