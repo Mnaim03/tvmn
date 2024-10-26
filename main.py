@@ -128,24 +128,9 @@ def preRunSelinium(channels):
         return channel
 
     # Usare un pool di thread con un massimo di 3 thread
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as executor:
         # Mappare i canali e processarli in parallelo
         channels = list(executor.map(process_channel, channels))
-
-    return channels
-#Senza Threads
-def preRunSeliniumBACKUP(channels):
-    for channel in channels:
-        if channel.getM3U8:
-            url = runSelinium(channel.streamLink)
-            if url.startswith('not'):  # In caso di errore...
-                channel.returnedM3U8 = getOldM3U8(channel.tvgID, url)  # Utilizzo link backup se presente
-            else:
-                channel.returnedM3U8 = url  # Associo il nuovo link nella struttura
-                setOldM3U8(channel.tvgID, channel.returnedM3U8)  # Aggiorno link backup nella struttura
-        else:
-            channel.returnedM3U8 = channel.presentM3U8  # Carico il link preinserito
-            setOldM3U8(channel.tvgID, channel.returnedM3U8)  # Aggiorno link backup anche se statico
 
     return channels
 
