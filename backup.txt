@@ -1,8 +1,8 @@
 manar=https://s1.ettehadlive.com/live/43/chunklist_w444025192.m3u8
 
-al_ittihad=https://live.alittihad.tv:444/ittihad/index.m3u8
+al_ittihad=https://s1.ettehadlive.com/live/30/chunklist_w866818012.m3u8
 
-MTV=https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=7M2GRUn-bu38rlpaKk5Zjw:2GulbMWee2pmeWJZ3xCaz5rcuUHjx0NclUvtyv_skeLWsXe8fF-xiZVym7FacoI1iLWGxYyqIqEP96wdBwTT_ovMTySSvBaJazF1xCL9FWZlljgiqXpbjsoFnKweLzPT7Xp9FhK7WULXrrvl44ckvUFKhT3CyCLFLjXe5tVDgZHqg1NWPCJSNE1ej9sRZQjP4kOx4e5prIt55sabcdA9lQ
+MTV=https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=JPShOP_MMQRkPzNfYMvI4A:F1K56D_r9C2AZbVQQy_bgzDAhK9td7thZ0jcTYZLRVOoUa7l1FHWH7ma6dSB5fhT2uY12sYmV1fI_oAIPMGpDy2foS38UmrLcT8TLS6Kk9HN6-JyKJHR6sS7YO-u3V9geY0uiytX7tne1HV7ndcPVOPRMz5gqHejwnpivDMVQ5njE2qBJ3UnjmtW5ZOj9SSisBKu0ESCe2HaV95YlgHJTw
 
 al_jadeed=https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/index.m3u8?token=eeef15c77a149d29de3959352e76c3e6c4147bea-69fc93c5ae7f97e398f75b3ec3c8670d-1729973855-1729963055
 
@@ -10,19 +10,19 @@ jazeera_arabic=https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 
 jazeera_live=https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-lbci=https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=dffdac4a87f832d4dd3dc2ddac2bed2a290de4db-805907fea02a235b5da18e3406de8561-1729973854-1729963054
+lbci=https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=f5e5041246f22304e4cc4564c87c72f075c729de-9ebac67433c7ef6b51364c812243a16d-1729976957-1729966157
 
-lbc2=https://el11.elahmad.com/tv707_www.elahmad.com_lb2/index.m3u8?token=3892ec15484702986abeb05653a34e0a005021d5-b1a52a65d878ea750fac42e2a7e9b133-1729973857-1729963057
+lbc2=https://el11.elahmad.com/tv707_www.elahmad.com_lb2/index.m3u8?token=27fc3126e8a415aafb9bf58f76adfdd256e56cc2-6e41ff46a5e2c3349c5024f8721a9291-1729976957-1729966157
 
 mayadeen=https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 
-mustakbal=https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=180da66a58bafac854602175d855ab1d13271808-aaeed370967d0b8ee26e019e32060e96-1729973858-1729963058
+mustakbal=https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=06f2ba7472e5d791c13442cb17bae5fef4f4b4a2-85b73292c97b4f76e3f3788275d53eee-1729976957-1729966157
 
 otv=https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=1e7f78ed31ee82020593d13e06f992a9e1927e5f-0167a3fc08052533d40587c222cafaa8-1729973858-1729963058
 
 al_muchahed=https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 
-nbn=https://el11.elahmad.com/tv707_www.elahmad.com_nbn/index.m3u8?token=a1d5ad24f813c684b5892fa17456c00c6afb5a9e-50e0c9e4fcb0a19ca033d15f846fae7a-1729970864-1729960064
+nbn=https://el11.elahmad.com/tv707_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=3d883b9711847a8fa6acd5c7f68ad33d1f0f6203-56f44e22a0a263036454f6f3826a682d-1729976968-1729966168
 
 skynewsarabic=https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
@@ -36,7 +36,7 @@ mbc1=https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc
 
 mbc2=https://m3u.iranvids.com/mbc02/output.m3u8
 
-mbc3=https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+mbc3=https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 
 mbc4=https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
@@ -48,7 +48,7 @@ mbcaction=https://m3u.iranvids.com/mbc-action/output.m3u8
 
 mbcvariety=https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-mbcdrama=https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_3.m3u8
+mbcdrama=https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 mbcwanasah=https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
 
