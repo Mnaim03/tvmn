@@ -2,7 +2,7 @@ manar=https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 
 al_ittihad=https://live.alittihad.tv:444/ittihad/index.m3u8
 
-MTV=https://hms.pfs.gdn/stream/mtv.m3u8?token=XirJkETarFaSov4Bm9mr5g:8ww7m-Dkdj7jN5e9ZWFs5YSRnhGYxH3qylrNoOhNG9gwV6Y6IuNvOXKvnxHnziE5RhReyD4QZQv-50_Pc1IvCSEgZByeL6o2UyNG4ERKBRE7scbs2Rh6Bn2-jykJASqiwsbxHXi_D06q6CV37kpiad6Z-ZUr5G31B4CzlMrtaPmQoLssAcTfVwIVin0Movzo91xBVEp4CE1YuEK5xUzPOiQECMmxgvUuIukQFVoytCY
+MTV=https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=5oko2SVYRyM3lKioGt31hA:5OwT0gQWERcqjpCcgQ_yrjWb8ee4rBmn7EiV6k53reTwciCVOhdBBmWY_JtFixrK5PAQuut0N_1NX8l9RnB4nd1MOFn5y-Sstld-bVePRRiWRCUynX5th7_TwgQHF5ntvlYsx2h6e9gOwccmIuMuKFdyIX-sjoAONnkwFOvlRj8Mq4i7G2KQ6dzFa1GS2Pu-TcSy83Yl1bQdp9F1xNg2bw
 
 al_jadeed=https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=62dde3440ba305bbc9aeaaaaa7a9a8436c03fdea-25e4e53edb3cd25911de0ed165d201f4-1729763166-1729752366
 
@@ -10,13 +10,13 @@ jazeera_arabic=https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 
 jazeera_live=https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-lbci=https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=fd6128f40e3fc42d741d2089d0593de01c5100f5-793399ad433df96cc29531cbbc35ed1f-1729763167-1729752367
+lbci=https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=3ae73fcc01790a4168d30ddbc51b2f18eb50a73b-7e4c291f004accc430dd73de6563e452-1729941106-1729930306
 
-lbc2=https://el11.elahmad.com/tv707_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token=2d3496334873af1bd0b74e3da0a6c3a514ef4536-ad59d38f1f144b6dea1202aa9904f550-1729720265-1729709465
+lbc2=https://el11.elahmad.com/tv707_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token=abdfe743bcabb6fc51643eccdc7522185e8a098a-edccd080d600a0a628acc3a5ec821569-1729941107-1729930307
 
 mayadeen=https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 
-mustakbal=https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=7297f1771962045151b9f57dd305cd0c273de595-bfc365b21920e5e743666871b82d7530-1729720726-1729709926
+mustakbal=https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=5b1f87aa7b82f4f40854cd811df3c792a8b35dc0-deff51c11b214da056fbe5651a7b44af-1729941108-1729930308
 
 otv=https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=ee4c21bf67a9ab6b5388d24e7c8ffe4427960f36-6efdd22cb5ca7a75b0b828ddc2e7aabd-1729763177-1729752377
 
