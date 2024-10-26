@@ -10,7 +10,7 @@ https://live.alittihad.tv:444/ittihad/index.m3u8
 https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=6Jn1IRvBcjCvyLDO1-Q8GA:SClEVB5VkYOBmNvhWqWBGTU3tsrzBW55ihNZp0Mi4VwpIPV5lDRlPz14Wy_n4lMywyA0vQlOWbgdjG_lvae32k-YbOm3U_0ZDtft4jNHbOCDJNFYWuC7ibgr6yMquYA19_oBlUf6aTrV9Tz-4ryAW_BwPEglbr8n9UH6Ty7f9fiquynZGAK0Zdkib-h3kcR15OfujNSjOYhNRGJjiBCVzg
 
 #EXTINF:-2 tvg-id="al_jadeed" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/index.m3u8?token=e0aee43b3147afb61f2231960a48e3c52d16681e-e28c163f2b0569bc5b79ce41d3ace0ec-1729941973-1729931173
+https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=cee61b2d9193bd2cfeeef1e871fee596b30b3676-5a0a978cf084c4c88b398f18fb0115e6-1729942217-1729931417
 
 #EXTINF:-2 tvg-id="jazeera_arabic" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
