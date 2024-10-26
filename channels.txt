@@ -60,7 +60,7 @@ getM3U8=1
 streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=lb2
 presentM3U8=none
 category=ARABIC
-logohttps://upload.wikimedia.org/wikipedia/commons/a/ab/LBCI_HD_logo.png
+logo=https://upload.wikimedia.org/wikipedia/commons/a/ab/LBCI_HD_logo.png
 
 tvgID=mayadeen
 channelName=Al Mayadeen
