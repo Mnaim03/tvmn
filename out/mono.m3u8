@@ -7,10 +7,10 @@ https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 
 #EXTINF:-2 tvg-id="MTV" group-title="ARABIC" tvg-logo="https://lebanon.mom-gmr.org/uploads/tx_lfrogmom/media/14023-1409_import.png",MTV
-https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=6Jn1IRvBcjCvyLDO1-Q8GA:SClEVB5VkYOBmNvhWqWBGTU3tsrzBW55ihNZp0Mi4VwpIPV5lDRlPz14Wy_n4lMywyA0vQlOWbgdjG_lvae32k-YbOm3U_0ZDtft4jNHbOCDJNFYWuC7ibgr6yMquYA19_oBlUf6aTrV9Tz-4ryAW_BwPEglbr8n9UH6Ty7f9fiquynZGAK0Zdkib-h3kcR15OfujNSjOYhNRGJjiBCVzg
+https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=eQx-Kj_OrZBYXj-2qH11Kg:OvYoHfOQzkraaTJhGEbSxg6agAyXsZ_MXUlw1oDfg5YfZKNYPxfOc9nn_RfilOBHOEAwOIsvwjyIkFO9KHWoFZLv7VJwKhHewJM8cU2lK-NvFCASjKsrvDUk_-dUY8QgwnrVyFdrga9aDf3j2tfxxHuGGMRvOzRuPktnVg6zQ5HWWu0FO5xJeTqVuGQQHiCtgSNnuGF8VH3dZ9DdSimdLw
 
 #EXTINF:-2 tvg-id="al_jadeed" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG",Al Jadeed
-https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=cee61b2d9193bd2cfeeef1e871fee596b30b3676-5a0a978cf084c4c88b398f18fb0115e6-1729942217-1729931417
+https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/index.m3u8?token=ce258ace4dfb86d72e399fa13d748a6a8da5486e-7b6818b31f5f4e475dbfc2393503bdf1-1729944470-1729933670
 
 #EXTINF:-2 tvg-id="jazeera_arabic" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Jazeera Arabic
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
@@ -19,7 +19,7 @@ https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-2 tvg-id="lbci" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png",LBCi
-https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=3d78e43e27ec545505cfe81987e31dbf5dfeba6f-e15bc5afbbb18f2c7a24d52231d0829f-1729941972-1729931172
+https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=751b71de1c1db7649a89087f0c2dd2dc2d0b6348-16ba91e3bdbd6a36594444bc3a8f6e93-1729944467-1729933667
 
 #EXTINF:-2 tvg-id="lbc2" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png",LBC2
 https://el11.elahmad.com/tv707_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token
@@ -28,16 +28,16 @@ https://el11.elahmad.com/tv707_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 
 #EXTINF:-2 tvg-id="mustakbal" group-title="ARABIC" tvg-logo="https://lesfolies.design/wp-content/uploads/2018/06/LF-Portfolio-Future-Logo-1.jpg",Mustakbal
-https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=a08847195fedd1a8fbd3d0df632152e2609080b3-87dcba2385b7a4454801dc0ea198a9e8-1729941973-1729931173
+https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=ff3452b1b9f4cf4ab71e5a5565faf20f5c84b9f3-64e3553c25b9326b5ed97908910673d4-1729944469-1729933669
 
 #EXTINF:-2 tvg-id="otv" group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png",OTV
-https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=adb979107652596e31c932d27db4d6062ff409eb-7c32de283084a47f05b7ee26bd4794f4-1729941985-1729931185
+https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=c6255895af6d6476272e2adc1c95425468f2be61-cedf09d6dc6aad9beef8a76544eaea52-1729944482-1729933682
 
 #EXTINF:-2 tvg-id="al_muchahed" group-title="ARABIC" tvg-logo="https://png.pngtree.com/png-vector/20220915/ourmid/pngtree-tv-logo-design-old-abstract-flat-vector-png-image_39237088.png",Al Muchahed
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 
 #EXTINF:-2 tvg-id="nbn" group-title="ARABIC" tvg-logo="https://nbn.com.lb/wp-content/uploads/2024/06/logo-nbn-copy.png",NBN
-https://el11.elahmad.com/tv707_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=ed9b0f4bd9cc11cff58273a396a83808d907ad5d-96c196fed131e88662864b31da1ff5bf-1729941990-1729931190
+https://el11.elahmad.com/tv707_www.elahmad.com_nbn/index.m3u8?token=03d4439f202c2968c2f6b8cf0715e3161c5961c2-ae593479353b6bad26b9e2ffd550ea37-1729944484-1729933684
 
 #EXTINF:-2 tvg-id="skynewsarabic" group-title="ARABIC" tvg-logo="https://e7.pngegg.com/pngimages/452/128/png-clipart-abu-dhabi-sky-news-arabia-television-others-text-logo-thumbnail.png",SKY News Arabic
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -61,7 +61,7 @@ http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1918.m3u8?token=TUcNB0MK
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
 #EXTINF:-2 tvg-id="mbc4" group-title="MBC" tvg-logo="https://static.wikia.nocookie.net/wikihasania/images/d/dd/MBC4_Logo.png/revision/latest?cb=20240611132252",MBC 4
-https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
 
 #EXTINF:-2 tvg-id="mbc5" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
 https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
@@ -76,7 +76,7 @@ http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1915.m3u8?token=TUcNB0MK
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 #EXTINF:-2 tvg-id="mbcdrama" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png",MBC Drama +
-https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_5.m3u8
+https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 #EXTINF:-2 tvg-id="mbcwanasah" group-title="MBC" tvg-logo="https://i.imgur.com/nLtiXNf.png",MBC Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
