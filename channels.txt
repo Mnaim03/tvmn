@@ -2,7 +2,7 @@ tvgID=manar
 channelName=Manar
 getM3U8=0
 streamLink=https://www.almanar.com.lb/live/
-presentM3U8=https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
+presentM3U8=https://s1.ettehadlive.com/live/43/chunklist_w444025192.m3u8
 category=ARABIC
 logo=https://seeklogo.com/images/A/Al_Manar-logo-617BD63196-seeklogo.com.png
 
@@ -108,7 +108,7 @@ getM3U8=0
 streamLink=https://www.elahmad.com/tv/arabic-tv-online.php?id=skynews
 presentM3U8=https://stream.skynewsarabia.com/hls/sna_720.m3u8
 category=ARABIC
-logo=https://e7.pngegg.com/pngimages/452/128/png-clipart-abu-dhabi-sky-news-arabia-television-others-text-logo-thumbnail.png
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png
 
 tvgID=dai3a_1
 channelName=Dai3a Dai3a 1
@@ -146,7 +146,7 @@ tvgID=mbc2
 channelName=MBC 2
 getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc2/
-presentM3U8=http://136.243.105.4:8080/live/suaFaRecord/7PASADerJXre/1918.m3u8?token=TUcNB0MKRllAV1cAAVsEVAMLB1ZeAVwAVQBRUVBWUgUDAFNSA1YGBgZGTkZHTEEBVV5vXlwXXwZdAwxKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAFxdVRJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cEV1FBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVVWlBaRkk=
+presentM3U8=https://m3u.iranvids.com/mbc02/output.m3u8
 category=MBC
 logo=https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc2.png
 
