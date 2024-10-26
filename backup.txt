@@ -2,27 +2,27 @@ manar=https://s1.ettehadlive.com/live/43/chunklist_w444025192.m3u8
 
 al_ittihad=https://live.alittihad.tv:444/ittihad/index.m3u8
 
-MTV=https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=6-pILvfgNhK7jWu_tRJAJg:fOsbVQulVBbw8YU8gPJCQlfEN4HRglORN631kuXsyowqpakcqWDzdnjiXQy0YTqr3jpq-pAtZ5e4AvFtMf_uNaLmJWp6pkTd42e00fzYSgSF-fH9dUwgJ3S4oboleCK_Ay3ptm3SiyHDtZLuWLi0FQk7q01yHIDYT7y4_B1cgzR3ogotNxpCbCHh2G1Yn2DMqVoxVqmigfeutkyWpgAS8w
+MTV=https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v3a1/mono.m3u8?token=c_uvw-ZTC2Kid7VxZ3OWog:yMUCmRurbvueVlJPJScGTMlc66wo2ZkFSuLmdMwLvWv8C2DnJrmqBq8nhHlg7BN11xB9GtxzThOlc1S68vVOd9LZ0P_j_Ecjb7KK652BO4HGWDZ55CvnBbYiLMVU5mMNKpN-bkC-ykA3F1aNW_AQzav07Skta0GtYfLg24Fia4YpMu-DDYCWvbs8IpCR2jSeiaFNfqpcNAaBf4mOoqXy_Q
 
-al_jadeed=https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/index.m3u8?token=8d60376f8eb85d7c228e3642f63ba3dd7a6f22f2-c07efe69e45ef8a4066f6b2f3239f94d-1729970852-1729960052
+al_jadeed=https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=55f6791e2d4399ba04675d2790e38300d4d5dda1-b75a8727c6f90aa7b5067c829ab6dbba-1729973501-1729962701
 
 jazeera_arabic=https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 
 jazeera_live=https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-lbci=https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=a5edbad1636e93dc05704c847decfc14bf9f1d7d-58017afb1520aec550d665e18df67668-1729970850-1729960050
+lbci=https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=7ad7e55f232f7e4e59cec49c8ed7e9e6ce13eaae-ddf661774f711cbd69244a12f6c99f0a-1729973499-1729962699
 
 lbc2=https://el11.elahmad.com/tv707_www.elahmad.com_lb2/index.m3u8?token=58c1baa40af00408c3b87995ab3034fa27144e6a-12ebde53daf658f709d270b86db3cc20-1729962755-1729951955
 
 mayadeen=https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 
-mustakbal=https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=37220fdf2b12de35bd25a08973d89d65e175240a-025c150f3f850fee446fb89a3368fc67-1729970851-1729960051
+mustakbal=https://el11.elahmad.com/tv707_www.elahmad.com_future/index.m3u8?token=f6f2e766c9a6ab1a76ef8e9ffda02b71d29824e5-48cb1845d34384b05313eda7c5caed29-1729973501-1729962701
 
-otv=https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=13a01c61e52b30776cad71a8cd66528dfae07631-2828d170006dc28a950dca425168c83d-1729970853-1729960053
+otv=https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=742f88b41927194fc9a3253d68f824cb8908c2c3-fcecc5fa007a5e86a57c42340e946bf3-1729973500-1729962700
 
 al_muchahed=https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 
-nbn=https://el11.elahmad.com/tv707_www.elahmad.com_nbn/index.m3u8?token=a1d5ad24f813c684b5892fa17456c00c6afb5a9e-50e0c9e4fcb0a19ca033d15f846fae7a-1729970864-1729960064
+nbn=https://el11.elahmad.com/tv707_www.elahmad.com_nbn/index.m3u8?token=8a47d7129d544472039c1d35b0fa15fc143f74c2-7a8a52b7b7b095c3fd4fd3277b34ae8f-1729973513-1729962713
 
 skynewsarabic=https://stream.skynewsarabia.com/hls/sna_720.m3u8
 

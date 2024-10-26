@@ -4,13 +4,13 @@ getM3U8=0
 streamLink=https://www.almanar.com.lb/live/
 presentM3U8=https://s1.ettehadlive.com/live/43/chunklist_w444025192.m3u8
 category=ARABIC
-logo=https://seeklogo.com/images/A/Al_Manar-logo-617BD63196-seeklogo.com.png
+logo=https://cdn.freelogovectors.net/wp-content/uploads/2020/07/al-manar-tv-logo.png
 
 tvgID=al_ittihad
 channelName=Al Ittihad
 getM3U8=0
 streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=alittihad
-presentM3U8=https://live.alittihad.tv:444/ittihad/index.m3u8
+presentM3U8=https://s1.ettehadlive.com/live/30/chunklist_w866818012.m3u8
 category=ARABIC
 logo=https://png.pngtree.com/png-vector/20220915/ourmid/pngtree-tv-logo-design-old-abstract-flat-vector-png-image_39237088.png
 
@@ -52,7 +52,7 @@ getM3U8=1
 streamLink=http://www.elahmad.com/tv/lbc.php
 presentM3U8=none
 category=ARABIC
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png
+logo=https://upload.wikimedia.org/wikipedia/commons/a/ab/LBCI_HD_logo.png
 
 tvgID=lbc2
 channelName=LBC2
@@ -60,7 +60,7 @@ getM3U8=1
 streamLink=https://www.elahmad.com/tv/mobiletv/glarb.php?id=lb2
 presentM3U8=none
 category=ARABIC
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png
+logohttps://upload.wikimedia.org/wikipedia/commons/a/ab/LBCI_HD_logo.png
 
 tvgID=mayadeen
 channelName=Al Mayadeen
@@ -108,7 +108,7 @@ getM3U8=0
 streamLink=https://www.elahmad.com/tv/arabic-tv-online.php?id=skynews
 presentM3U8=https://stream.skynewsarabia.com/hls/sna_720.m3u8
 category=ARABIC
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png
+logo=https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png
 
 tvgID=dai3a_1
 channelName=Dai3a Dai3a 1
@@ -180,7 +180,7 @@ getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-max/
 presentM3U8=http://136.243.88.20:8080/live/suaFaRecord/7PASADerJXre/1911.m3u8?token=TUcNB0MKRllAUAdcVwxRBw0AA1MBDQBUXAYDVFtQUAsFUwNTCFRUWgBGTkZHTEEBVV5vXlwXXwZdAwVKQRNCVkQ6DAISWEZSUlNWUwAaH0ZAWl1SGg9VG0ZCXQJBXBMCAlBcUxJORgYaEAcWWllfO1BWRl5bUEcNCkdYCk9EXl1pAQALUQwAQVhGUkYYGloXRBEKWU1ZCRtGUF0SEQdFVhRfR1cFUlZBTkYBC0FWRxZNEQoVcWFHG0ZXTBIGCEJaWQtHXBIPVxZaRk5GXUtsFlFAREVdVAhSFhAORFJEHRFbBB05Uw0KDQcHFg1bVkBGDhECBwgXSRUJXVoPFwlDbEYMAUQKQFVXVlJTRkk=
 category=MBC
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/800px-MBC_Max_Logo.svg.png
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/mbc.png?raw=true
 
 tvgID=mbcaction
 channelName=MBC Action
@@ -188,7 +188,7 @@ getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-action/
 presentM3U8=https://m3u.iranvids.com/mbc-action/output.m3u8
 category=MBC
-logo=https://static.wikia.nocookie.net/logopedia/images/3/38/MBCAction.png/revision/latest?cb=20191214131155
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/mbc.png?raw=true
 
 tvgID=mbcvariety
 channelName=MBC Variety +
@@ -196,7 +196,7 @@ getM3U8=0
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-variety/
 presentM3U8=https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 category=MBC
-logo=https://i.imgur.com/SfA0YaR.png
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbcsat.png
 
 tvgID=mbcdrama
 channelName=MBC Drama +
@@ -204,7 +204,7 @@ getM3U8=1
 streamLink=http://live.multies.net/ent-ch/mbc-ch/mbc-drama-plus/
 presentM3U8=https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 category=MBC
-logo=https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png
+logo=https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbcsat.png
 
 tvgID=mbcwanasah
 channelName=MBC Wanasah
