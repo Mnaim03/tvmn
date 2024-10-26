@@ -51,7 +51,7 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
 #EXTINF:-2 tvg-id="adel_imam" group-title="SPECIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Adel_Imam_by_Elijah_Zarwan.jpg/640px-Adel_Imam_by_Elijah_Zarwan.jpg",Adel Imam TV
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
 
-#EXTINF:-2 tvg-id="mbc1" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MBC_1_Logo.svg",MBC 1
+#EXTINF:-2 tvg-id="mbc1" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MBC_1_Logo.svg",MBC 11
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
 #EXTINF:-2 tvg-id="mbc2" group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/MBC_2_Logo.svg/1200px-MBC_2_Logo.svg.png",MBC 2
